@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c2e97e13.css",
+    "main.js": "/static/js/main.6ce4bf03.js",
+    "static/js/453.1407b060.chunk.js": "/static/js/453.1407b060.chunk.js",
+    "static/media/mhd_khalid.jpeg": "/static/media/mhd_khalid.d06eb8f41e6aaf72fe79.jpeg",
+    "index.html": "/index.html",
+    "main.c2e97e13.css.map": "/static/css/main.c2e97e13.css.map",
+    "main.6ce4bf03.js.map": "/static/js/main.6ce4bf03.js.map",
+    "453.1407b060.chunk.js.map": "/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2e97e13.css",
+    "static/js/main.6ce4bf03.js"
+  ]
+}
